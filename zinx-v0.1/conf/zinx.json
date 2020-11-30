@@ -1,0 +1,10 @@
+{
+    "Name":"Zinx Game",
+    "Host":"0.0.0.0",
+    "TcpPort":9999,
+    "MaxConn":3000,
+    "WorkerPoolSize":1,
+    "LogDir": "./mmo_game_log",
+    "LogFile":"mmo_game.log"
+  }
+  
